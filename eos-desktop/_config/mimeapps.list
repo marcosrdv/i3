@@ -12,6 +12,8 @@ application/x-extension-xhtml=firefox.desktop;
 application/x-extension-xht=firefox.desktop;
 text/plain=org.xfce.mousepad.desktop;xed.desktop;
 image/jpeg=feh.desktop;
+image/png=feh.desktop;
+text/x-matlab=xed.desktop;
 
 [Default Applications]
 x-scheme-handler/http=firefox.desktop
