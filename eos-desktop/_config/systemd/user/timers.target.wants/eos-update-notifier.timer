@@ -1,1 +1,10 @@
-/home/marcos/.config/systemd/user/eos-update-notifier.timer
+[Unit]
+Description=EOS update notifier runs periodically (weekly) and soon after a reboot
+
+[Timer]
+OnStartupSec=300 seconds
+OnCalendar=weekly
+# Persistent=true
+ 
+[Install]
+WantedBy=timers.target
