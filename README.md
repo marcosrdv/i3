@@ -1,2 +1,2 @@
 # i3
-i3 + polybar / i3block dot file configs
+i3 WM + polybar / i3block dot file configs
